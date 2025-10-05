@@ -29,6 +29,10 @@ This is a real-time web application that detects **face**, **eyes**, and **smile
 
 ---
 
+![Demo GIF or Screenshot](4.png)  
+
+---
+
 ## 🛠️ Installation
 
 1. **Clone the repository**
