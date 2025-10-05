@@ -17,7 +17,15 @@ This is a real-time web application that detects **faces**, **eyes**, and **smil
 
 ## 💻 Demo
 
-![Demo GIF or Screenshot](link-to-your-screenshot-or-gif)  
+![Demo GIF or Screenshot](1.png)  
+
+---
+
+![Demo GIF or Screenshot](2.png)  
+
+---
+
+![Demo GIF or Screenshot](3.png)  
 
 ---
 
