@@ -1,7 +1,7 @@
 # 📷 Smart Face, Eye & Smile Detector
 
 Welcome to the **Smart Face, Eye & Smile Detector**! 🎉  
-This is a real-time web application that detects **faces**, **eyes**, and **smiles** using your webcam. Built with **Streamlit**, **OpenCV**, and **WebRTC**, it’s fast, interactive, and fun! 😄
+This is a real-time web application that detects **face**, **eyes**, and **smile** using your webcam. Built with **Streamlit**, **OpenCV**, and **WebRTC**, it’s fast, interactive, and fun! 😄
 
 ---
 
