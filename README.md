@@ -21,15 +21,16 @@ This is a real-time web application that detects **face**, **eyes**, and **smile
 
 ---
 
+![Demo GIF or Screenshot](4.png)  
+
+---
+
 ![Demo GIF or Screenshot](2.png)  
 
 ---
 
 ![Demo GIF or Screenshot](3.png)  
 
----
-
-![Demo GIF or Screenshot](4.png)  
 
 ---
 
