@@ -7,7 +7,7 @@ This is a real-time web application that detects **faces**, **eyes**, and **smil
 
 ## 🚀 Features
 
-- 🧑‍🤝‍🧑 **Face Detection**: Detect multiple faces in real-time.  
+- 🧑‍🤝‍🧑 **Face Detection**: Detect faces in real-time.  
 - 👀 **Eye Detection**: Recognizes eyes within detected faces.  
 - 😁 **Smile Detection**: Detects smiles and shows a message.  
 - 🎥 **Live Webcam Feed**: Stream your camera directly in the browser.  
